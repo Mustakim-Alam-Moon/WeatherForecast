@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w74OZpfYN0o3yLJtvgDz3K9wNfmmqP+xxKpSK+joWBoWTPeqnAretsfnSCcdxCZ6oIL8iBWMELCdbhSAreW6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Main Storage\\Project\\Microsoft Projects\\C#\\WeatherForecast\\WeatherForecast\\WeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moon\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Moon\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}
